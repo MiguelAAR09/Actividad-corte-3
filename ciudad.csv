@@ -1,0 +1,21 @@
+id;nombre;clima_dominante;altitud;gentilicio
+1;Bogota;Frio;2640;bogotano
+2;Cali;Calido;1018;caleño
+3;Medellin;Templado;1495;paisa
+4;Cartagena;Tropical;2;cartagenero
+5;Barranquilla;Calido;18;barranquillero
+6;Santa Marta;Tropical;6;samario
+7;Manizales;Frio;2150;manizaleño
+8;Pasto;Frio;2527;pastuso
+9;Pereira;Templado;1411;pereirano
+10;Bucaramanga;Calido;959;bumangues
+11;Popayan;Templado;1760;payanes
+12;Monteria;Calido;18;monteriano
+13;Neiva;Calido;442;opita
+14;Villavicencio;Tropical;467;llanero
+15;Armenia;Templado;1551;quindiano
+16;Tunja;Frio;2820;tunjano
+17;Sincelejo;Calido;213;sincelejano
+18;Riohacha;Tropical;5;riohachero
+19;Yopal;Calido;350;yopaleño
+20;Ibague;Templado;1285;ibaguereño

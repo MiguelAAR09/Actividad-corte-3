@@ -1,0 +1,21 @@
+idUsuario;idLugar;canal;codigo_descuento
+1;3;Instagram;DESC10
+2;11;WhatsApp;PROMO20
+3;1;Boca a boca;VIP15
+4;9;Instagram;ARTE5
+5;16;WhatsApp;AVENT10
+6;18;Boca a boca;PLAYA8
+7;13;Instagram;GOUR20
+8;19;WhatsApp;MARINO5
+9;2;Instagram;NAT15
+10;20;Boca a boca;LIBRO5
+11;5;Instagram;MUSEO10
+12;8;WhatsApp;ECO20
+13;10;Boca a boca;MIRA5
+14;4;Instagram;BOTAN15
+15;15;WhatsApp;CAST20
+16;12;Boca a boca;LAGO5
+17;14;Instagram;MERC10
+18;6;WhatsApp;PLAZA8
+19;17;Instagram;CULT20
+20;7;Boca a boca;CAFE5

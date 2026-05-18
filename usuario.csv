@@ -1,0 +1,21 @@
+id;nombre;nacionalidad;presupuesto;intereses;nivel_experto
+1;Juan Perez;Colombiana;3;"tecnologia,videojuegos,programacion";3
+2;Ana Gomez;Mexicana;2;"musica,cine,viajes";2
+3;Carlos Ruiz;Argentina;4;"futbol,lectura,ia,backend";4
+4;Laura Martinez;Espanola;1;"fotografia,arte,cocina";1
+5;David Torres;Chilena;3;"anime,videojuegos,streaming";3
+6;Sofia Herrera;Peruana;2;"moda,maquillaje,redes sociales";2
+7;Miguel Castro;Venezolana;4;"programacion,inteligencia artificial,robotica";4
+8;Camila Rojas;Ecuatoriana;1;"series,peliculas,musica";1
+9;Andres Silva;Brasilena;3;"futbol,gym,nutricion";3
+10;Valentina Lopez;Uruguaya;2;"lectura,escritura,poesia";2
+11;Nicolas Ramirez;Colombiana;4;"backend,bases de datos,cloud computing";4
+12;Daniela Vargas;Mexicana;3;"dibujo,animacion,videojuegos";3
+13;Sebastian Moreno;Argentina;2;"basketball,tecnologia,podcasts";2
+14;Paula Fernandez;Espanola;1;"viajes,fotografia,naturaleza";1
+15;Felipe Navarro;Peruana;4;"ciberseguridad,hacking etico,linux";4
+16;Mariana Gil;Chilena;2;"yoga,meditacion,salud";2
+17;Esteban Diaz;Venezolana;3;"emprendimiento,marketing,negocios";3
+18;Juliana Cruz;Ecuatoriana;1;"manualidades,cocina,jardineria";1
+19;Tomas Ortega;Brasilena;4;"desarrollo web,frontend,ux ui";4
+20;Isabella Mendoza;Uruguaya;3;"idiomas,historia,documentales";3

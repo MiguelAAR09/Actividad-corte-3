@@ -1,0 +1,21 @@
+id;nombre;estrellas;precio_noche;tipo;pet_friendly
+1;Hotel Sol;5;350;Hotel;true
+2;Hostal Luna;3;120;Hostal;false
+3;Hotel Oasis;4;280;Hotel;true
+4;Hostal Mar;2;90;Hostal;false
+5;Hotel Central;5;400;Hotel;true
+6;Hostal Verde;3;130;Hostal;true
+7;Hotel Pacifico;4;260;Hotel;false
+8;Hostal Rio;2;100;Hostal;false
+9;Hotel Dorado;5;380;Hotel;true
+10;Hostal Colonial;3;150;Hostal;true
+11;Hotel Azul;4;240;Hotel;false
+12;Hostal Bosque;2;95;Hostal;true
+13;Hotel Plaza;5;420;Hotel;true
+14;Hostal Sol;3;140;Hostal;false
+15;Hotel Estrella;4;270;Hotel;true
+16;Hostal Arena;2;110;Hostal;false
+17;Hotel Imperial;5;450;Hotel;true
+18;Hostal Lago;3;135;Hostal;true
+19;Hotel Vista;4;250;Hotel;false
+20;Hostal Montaña;2;105;Hostal;true

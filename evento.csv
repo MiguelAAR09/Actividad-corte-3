@@ -1,0 +1,21 @@
+id;nombre;fecha_inicio;fecha_fin;tipo;tematica;sold_out
+1;Festival del Cafe;2026-06-01;2026-06-03;Festival;Gourmet;true
+2;Feria Cultural;2026-06-10;2026-06-12;Feria;Cultura;false
+3;Expo Arte;2026-06-15;2026-06-18;Feria;Arte;true
+4;Carnaval del Mar;2026-07-01;2026-07-05;Festival;Playa;false
+5;Maraton Verde;2026-07-08;2026-07-09;Feria;Deporte;false
+6;Festival Musical;2026-07-12;2026-07-14;Festival;Cultura;true
+7;Expo Historia;2026-07-18;2026-07-20;Feria;Historia;false
+8;Feria Gastronomica;2026-08-01;2026-08-03;Feria;Gourmet;true
+9;Encuentro Natural;2026-08-05;2026-08-06;Festival;Naturaleza;false
+10;Semana del Arte;2026-08-10;2026-08-15;Festival;Arte;true
+11;Festival Aventura;2026-08-18;2026-08-20;Festival;Aventura;false
+12;Feria Deportiva;2026-09-01;2026-09-03;Feria;Deporte;true
+13;Cumbre Cultural;2026-09-05;2026-09-06;Festival;Cultura;false
+14;Expo Playa;2026-09-10;2026-09-12;Feria;Playa;true
+15;Festival Historico;2026-09-15;2026-09-18;Festival;Historia;false
+16;Feria Ecologica;2026-10-01;2026-10-03;Feria;Naturaleza;true
+17;Encuentro Gourmet;2026-10-05;2026-10-07;Festival;Gourmet;false
+18;Expo Turismo;2026-10-10;2026-10-12;Feria;Cultura;true
+19;Carnaval Aventura;2026-10-15;2026-10-18;Festival;Aventura;false
+20;Festival Relax;2026-11-01;2026-11-03;Festival;Relax;true

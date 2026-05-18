@@ -1,0 +1,21 @@
+id;nombre;tipo;calificacion_avg;popularidad_actual
+1;Museo del Oro;Museo;4.8;95
+2;Parque Tayrona;Parque;4.9;98
+3;Restaurante Sabor;Restaurante;4.5;82
+4;Jardin Botanico;Parque;4.6;78
+5;Museo de Arte Moderno;Museo;4.7;80
+6;Plaza Central;Plaza;4.2;70
+7;Cafe Colonial;Cafeteria;4.4;72
+8;Parque Ecologico;Parque;4.5;76
+9;Galeria Urbana;Galeria;4.6;75
+10;Mirador Azul;Mirador;4.8;88
+11;Teatro Nacional;Teatro;4.7;84
+12;Lago Verde;Parque;4.5;79
+13;Restaurante Gourmet;Restaurante;4.9;91
+14;Mercado Artesanal;Centro;4.3;68
+15;Castillo Historico;Museo;4.8;89
+16;Parque Aventura;Parque;4.7;87
+17;Centro Cultural;Centro;4.6;81
+18;Playa Dorada;Playa;4.9;97
+19;Acuario Marino;Acuario;4.5;83
+20;Biblioteca Central;Biblioteca;4.4;74
